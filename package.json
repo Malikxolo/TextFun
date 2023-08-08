@@ -1,6 +1,5 @@
 {
-  "homepage": "https://Abhay31.github.io/TextUtils",
-  "name": "textutils",
+  "name": "textFun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
