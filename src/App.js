@@ -23,14 +23,14 @@ function App() {
       settextColor('text-light');
       document.body.style.backgroundColor = '#042743';
       showAlert("Dark mode has been enabled", "success");
-      document.title = 'TextUtils - Dark Mode';
+      document.title = 'Textfun - Dark Mode';
     }
     else {
       setMode('light');
       settextColor('text-dark');
       document.body.style.backgroundColor = 'white';
       showAlert("Light mode has been enabled", "success");
-      document.title = 'TextUtils - Light Mode';
+      document.title = 'Textfun - Light Mode';
     }
   }
   return (
